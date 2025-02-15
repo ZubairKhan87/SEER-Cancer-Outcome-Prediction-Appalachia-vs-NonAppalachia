@@ -1,6 +1,5 @@
 # SEER-Cancer-Outcome-Prediction-Appalachia-vs-NonAppalachia
 
-# SEER Cancer Outcome Prediction: Appalachia vs. Non-Appalachia
 
 This project analyzes cancer outcomes in the **Appalachia** and **Non-Appalachia** regions using the **SEER dataset**. The goal is to identify demographic, clinical, and socio-economic factors influencing outcomes and compare the performance of **Logistic Regression** and **XGBoost** models.
 
